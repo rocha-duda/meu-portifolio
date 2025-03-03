@@ -53,8 +53,8 @@ header nav ul{
 }
 
 a:hover{
-  transition: 0.2;
-  color:rgba(2, 42, 2, 0.492)
+  transition: 0.3s;
+  color:rgba(234, 234, 234, 0.635)
   
 }
 a{
